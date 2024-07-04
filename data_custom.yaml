@@ -1,0 +1,6 @@
+train: /home/la-belva/Desktop/Yolov8/train
+val: /home/la-belva/Desktop/Yolov8/val
+
+nc: 2
+
+names: ["car","licenseplates"]
